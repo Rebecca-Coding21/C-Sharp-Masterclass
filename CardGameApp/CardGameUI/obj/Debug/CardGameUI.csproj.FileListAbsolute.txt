@@ -1,0 +1,8 @@
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.AssemblyReference.cache
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe.config
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\CardGameApp\CardGameUI\bin\Debug\CardGameUI.pdb
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\CardGameApp\CardGameUI\obj\Debug\CardGameUI.exe
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\CardGameApp\CardGameUI\obj\Debug\CardGameUI.pdb

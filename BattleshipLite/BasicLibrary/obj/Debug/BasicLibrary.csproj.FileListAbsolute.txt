@@ -1,0 +1,6 @@
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\BattleshipLite\BasicLibrary\bin\Debug\BasicLibrary.dll
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\BattleshipLite\BasicLibrary\bin\Debug\BasicLibrary.pdb
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\BattleshipLite\BasicLibrary\obj\Debug\BasicLibrary.csproj.AssemblyReference.cache
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\BattleshipLite\BasicLibrary\obj\Debug\BasicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\BattleshipLite\BasicLibrary\obj\Debug\BasicLibrary.dll
+C:\Users\Rebecca\Documents\C# Tim Corey\projects\BattleshipLite\BasicLibrary\obj\Debug\BasicLibrary.pdb
